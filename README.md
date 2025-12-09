@@ -1,2 +1,2 @@
-# DySpeech
-"DySpeech" is a user-friendly and powerful text-to-speech (TTS) converter application designed to provide a convenient and inclusive tool for users, with a particular focus on assisting individuals with dyslexia. This application leverages text-to-speech technology to convert written text into spoken audio, making it accessible and easier to comprehend for those who may struggle with reading or text-based content
+# Dyspeech
+"Dyspeech" is a user-friendly and powerful text-to-speech (TTS) converter application designed to provide a convenient and inclusive tool for users, with a particular focus on assisting individuals with dyslexia. This application leverages text-to-speech technology to convert written text into spoken audio, making it accessible and easier to comprehend for those who may struggle with reading or text-based content
